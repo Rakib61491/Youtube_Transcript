@@ -65,7 +65,7 @@ chmod +x run.sh
 If you prefer manual control:
 
 ```bash
-git clone https://github.com/yourusername/youtube-transcript-downloader.git
+git clone https://github.com/Rakib61491/Youtube_Transcript.git
 cd youtube-transcript-downloader
 
 python -m venv venv
